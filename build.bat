@@ -1,3 +1,3 @@
 @ECHO OFF
 
-ghc -g -o w.exe src\Main.hs
+ghc -g -o StrLen.exe src\Main.hs
